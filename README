@@ -1,0 +1,5 @@
+Contagem de vogais
+
+Retorna o número (contagem) de vogais na string fornecida.
+Consideraremos a, e, i, o, u como vogais para este desafio de código (mas não y). 
+A string de entrada consistirá apenas em letras minúsculas e/ou espaços.
